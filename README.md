@@ -29,7 +29,7 @@ and get an instant translation using the Google Translate API (via the
 4. View the translated text.
 5. Optionally, listen to the translation using text-to-speech.
 
-###  About CodeAlpha
+
 This project was developed as part of the **CodeAlpha Artificial Intelligence Internship**.
 
 
